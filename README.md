@@ -1,4 +1,5 @@
-## Web Service Boilerplate
+Web Service Boilerplate
+===
 
 Boilerplate template for web service for Python
 
